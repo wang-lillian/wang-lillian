@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Lillian and I am...
+My name is Lillian and I am...
 - 📖 Pursuing a B.S. in Computer Science at UIUC
 - 🎓 Graduating December 2027
 - 🌱 Interested in opportunities to apply my software engineering, machine learning, and data analysis skills to build impactful software solutions 
